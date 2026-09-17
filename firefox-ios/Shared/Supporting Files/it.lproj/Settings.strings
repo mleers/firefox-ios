@@ -107,7 +107,7 @@
 "Settings.AIControls.BlockAIEnhancementsTitle.v151" = "Blocca miglioramenti basati sull’IA";
 
 /* In the AI Controls settings, this is the text that appears when you have turned on the Block AI Enhancements toggle */
-"Settings.AIControls.BlockedInformation.v151" = "Per impostazione predefinita, le funzionalità basate sull’IA sono bloccate. Sblocca funzioni specifiche qui sotto.";
+"Settings.AIControls.BlockedInformation.v151" = "Le funzionalità basate sull’IA, nuove o esistenti, sono bloccate per impostazione predefinita. Sblocca funzioni specifiche qui sotto.";
 
 /* This is the text for the link in the Header Card under the AI Controls settings section that links to more information. */
 "Settings.AIControls.HeaderCard.Link.v151" = "Ulteriori informazioni";
@@ -168,6 +168,15 @@
 
 /* In the settings menu, this label indicates that there is an option of customizing the Autoplay behaviour. */
 "Settings.Autoplay.SettingsTitle.v137" = "Riproduzione automatica";
+
+/* Description text for the Ad Blocker toggle in the Browsing settings page, explaining its purpose and a tip for troubleshooting broken sites. */
+"Settings.Browsing.AdBlocker.Description.v155" = "Riduce gli annunci pubblicitari e gli elementi traccianti correlati. Se un sito non funziona correttamente, prova a disattivare questa opzione.";
+
+/* Link text below the Ad Blocker toggle description that opens a support page with more information. */
+"Settings.Browsing.AdBlocker.LearnMore.v155" = "Ulteriori informazioni";
+
+/* Title for the Ad Blocker toggle in the Browsing settings page. */
+"Settings.Browsing.AdBlocker.Title.v155" = "Blocco pubblicità";
 
 /* Title for the Block Ads toggle in the Browsing settings page. When enabled, the app blocks advertisements. */
 "Settings.Browsing.BlockAds.Title.v153" = "Blocca pubblicità";
@@ -374,7 +383,7 @@
 "Settings.Toolbar.Navigation.MiddleButton.NewTab.v145" = "Nuova scheda";
 
 /* Footer text below the auto-translate toggle in the Translation settings screen. */
-"Settings.Translation.AutoTranslate.Footer.v151" = "Traduce automaticamente le pagine nella tua lingua preferita.";
+"Settings.Translation.AutoTranslate.Footer.v151" = "Traduce automaticamente le pagine nella tua lingua preferita principale.";
 
 /* Title for the auto-translate toggle in the Translation settings screen. */
 "Settings.Translation.AutoTranslate.Title.v151" = "Traduzione automatica";
@@ -413,7 +422,7 @@
 "Settings.Translation.Title.v145" = "Traduzione";
 
 /* Footer text below the enable toggle in the Translation settings screen. */
-"Settings.Translation.ToggleFooter.v151" = "Disattivare questa opzione per rimuovere la traduzione dalla barra degli strumenti e dal menu.";
+"Settings.Translation.ToggleFooter.v151" = "Disattiva questa opzione per rimuovere la traduzione dalla barra degli strumenti e dal menu.";
 
 /* This is the title for the setting that toggles the Translation feature that allows users to translate web pages under the Translation settings section. */
 "Settings.Translation.ToggleTitle.v145" = "Attiva traduzioni";
