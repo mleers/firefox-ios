@@ -23,7 +23,7 @@
 "WebCompatReporter.Category.SiteNotUsable.v154" = "Sydło wužiwajomne njeje";
 
 /* Title of the issue category a user picks when video or audio does not play on a site, in the Report a Website Issue form. */
-"WebCompatReporter.Category.VideoOrAudio.v154" = "Widejo abo awdio so njewothrawa";
+"WebCompatReporter.Category.VideoOrAudio.v154" = "Widejo abo awdijo so njewothrawa";
 
 /* Accessibility label for the multiline field where the user can describe the website problem in their own words, in the Report a Website Issue form. */
 "WebCompatReporter.Fields.DetailsAccessibilityLabel.v154" = "Wopisajće problem nadrobnje";
@@ -98,5 +98,5 @@
 "WebCompatReporter.SubOption.PageNotLoading.v154" = "Strona so korektnje njezačita";
 
 /* A specific sub-option under the 'Video or audio does not play' issue category in the Report a Website Issue form. */
-"WebCompatReporter.SubOption.PlaybackFails.v154" = "Widejo abo awdio so njewothrawa";
+"WebCompatReporter.SubOption.PlaybackFails.v154" = "Widejo abo awdijo so njewothrawa";
 
