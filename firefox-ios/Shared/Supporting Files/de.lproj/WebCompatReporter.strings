@@ -68,7 +68,7 @@
 "WebCompatReporter.SubOption.ButtonsNotWorking.v154" = "Schaltflächen oder Links funktionieren nicht";
 
 /* A specific sub-option under the 'Video or audio does not play' issue category in the Report a Website Issue form. */
-"WebCompatReporter.SubOption.CaptionsMissing.v154" = "Bildunterschriften fehlen";
+"WebCompatReporter.SubOption.CaptionsMissing.v154" = "Untertitel fehlen";
 
 /* A specific sub-option under the 'Design is broken' issue category in the Report a Website Issue form. */
 "WebCompatReporter.SubOption.ImagesNotLoaded.v154" = "Grafiken werden nicht geladen";
