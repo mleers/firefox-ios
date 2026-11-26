@@ -25,17 +25,11 @@
 /* Title of the issue category a user picks when video or audio does not play on a site, in the Report a Website Issue form. */
 "WebCompatReporter.Category.VideoOrAudio.v154" = "Video alebo zvuk sa neprehráva";
 
-/* Accessibility label for the multiline field where the user can describe the website problem in their own words, in the Report a Website Issue form. */
-"WebCompatReporter.Fields.DetailsAccessibilityLabel.v154" = "Podrobne opíšte problém";
-
 /* Placeholder shown in the optional multiline field where the user can describe the website problem in their own words, in the Report a Website Issue form. */
 "WebCompatReporter.Fields.DetailsPlaceholder.v154" = "Podrobne opíšte problém (voliteľné)";
 
 /* Leading label of the editable row showing the web address being reported, in the Report a Website Issue form. */
 "WebCompatReporter.Fields.URLLabel.v154" = "Adresa URL";
-
-/* Placeholder shown in the URL field when no web address has been entered, in the Report a Website Issue form. */
-"WebCompatReporter.Fields.URLPlaceholder.v154" = "Adresa URL";
 
 /* Placeholder shown in the issue-type pull-down before the user has picked a website problem category, in the Report a Website Issue form. */
 "WebCompatReporter.IssueSection.CategoryPlaceholder.v154" = "Vyberte typ problému…";

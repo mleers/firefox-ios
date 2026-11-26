@@ -46,6 +46,9 @@
 /* On the main menu, at the top, when the user is signed out. The title for the sign in action */
 "MainMenu.Account.SignedOut.Title.v131" = "Anmelden";
 
+/* On the main menu account header, shown transiently while the user is being signed out of their account. */
+"MainMenu.Account.SigningOut.Title.v154" = "Abmelden…";
+
 /* On the main menu, at the top, when the user is signed in but there was an error syncing. The description subtitle for the sync error state. */
 "MainMenu.Account.SyncError.Description.v131" = "Synchronisierung angehalten";
 
@@ -359,7 +362,7 @@
 "MainMenu.ToolsSection.AccessibilityLabels.Save.v132" = "Speichern";
 
 /* On the main menu, the accessibility label for the action that will take the user to the Save submenu in the menu. In the main menu, there is an option called Save that is taking the user to the Save submenu where user can share, bookmark the page and so on. */
-"MainMenu.ToolsSection.AccessibilityLabels.Save.v133" = "Untermenü speichern";
+"MainMenu.ToolsSection.AccessibilityLabels.Save.v133" = "Untermenü „Speichern“";
 
 /* On the main menu, the accessibility label for the action that will summarize the content of the webpage. */
 "MainMenu.ToolsSection.AccessibilityLabels.SummarizePage.v142" = "Seite zusammenfassen";

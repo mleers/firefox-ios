@@ -169,6 +169,15 @@
 /* In the settings menu, this label indicates that there is an option of customizing the Autoplay behaviour. */
 "Settings.Autoplay.SettingsTitle.v137" = "Lecture automatique";
 
+/* Description text for the Ad Blocker toggle in the Browsing settings page, explaining its purpose and a tip for troubleshooting broken sites. */
+"Settings.Browsing.AdBlocker.Description.v155" = "Réduit le nombre de publicités et de traqueurs liés aux publicités. Si un site semble ne pas fonctionner correctement, essayez de désactiver cette option.";
+
+/* Link text below the Ad Blocker toggle description that opens a support page with more information. */
+"Settings.Browsing.AdBlocker.LearnMore.v155" = "En savoir plus";
+
+/* Title for the Ad Blocker toggle in the Browsing settings page. */
+"Settings.Browsing.AdBlocker.Title.v155" = "Bloqueur de publicités";
+
 /* Title for the Block Ads toggle in the Browsing settings page. When enabled, the app blocks advertisements. */
 "Settings.Browsing.BlockAds.Title.v153" = "Bloquer les publicités";
 
@@ -266,7 +275,7 @@
 "Settings.Search.GoogleLens.Description.v153" = "Envoyez des images à Google pour effectuer des recherches.";
 
 /* In the Search settings, this is the disclaimer underneath the Google Lens settings toggle that explains the conditions required for Google Lens to be available. */
-"Settings.Search.GoogleLens.Footnote.v153" = "Disponible uniquement si Google est activé ci-dessus et défini comme moteur de recherche principal lors de la navigation.";
+"Settings.Search.GoogleLens.Footnote.v153" = "Disponible uniquement si Google est activé ci-dessus et qu’il est le moteur de recherche actif lors de la navigation.";
 
 /* In the Search settings, this is the title that describes the Google Lens feature */
 "Settings.Search.GoogleLens.Title.v153" = "Google Lens";
